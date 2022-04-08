@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/cryptoChart/static/js/main.53c8b8f0.js",
+    "index.html": "/cryptoChart/index.html",
+    "main.53c8b8f0.js.map": "/cryptoChart/static/js/main.53c8b8f0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.53c8b8f0.js"
+  ]
+}
