@@ -1,4 +1,4 @@
-https://LIM-HYUN-JEONG.github.io/cryptoChart
+https://im-hyun-jeong.github.io/cryptoChart/
 
 # 프로젝트 소개
 외부 오픈API와 통신하여 실시간 코인들의 잔액을 확인하는 서비스입니다.
